@@ -25,10 +25,6 @@ This is a cross-platform and it runs in a terminal on Linux based and macOS oper
 
 ##
 
-:sparkles: **Note:** New cool CLI v3 *[beta]* is already available. [Enjoy it](https://github.com/crowdin/crowdin-cli-2/tree/cli3#readme)! :tada: :rocket:
-
-##
-
 ### Installation
 
 Crowdin CLI can be installed as a stand-alone Java application.
